@@ -17,7 +17,7 @@ var $speed = 400;
 $(document).ready(function() {
     $('body').velocity('fadeIn', { duration: 1500});
 
-    
+
 });
 
 
@@ -345,7 +345,7 @@ particlesJS('particles-js',
       },
       "line_linked": {
         "enable": true,
-        "distance": 120,
+        "distance": 110,
         "color": "#ffffff",
         "opacity": 0.6,
         "width": 1
