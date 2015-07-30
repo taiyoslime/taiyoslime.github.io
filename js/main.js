@@ -14,14 +14,10 @@ var $speed = 400;
 
 */
 
-$(window).on('load resize', function(){
-  $('#particles-js').css('height',$(document).height());
-});
-
-
 $(document).ready(function() {
     $('body').velocity('fadeIn', { duration: 1500});
 
+    
 });
 
 
@@ -303,15 +299,12 @@ $('.b5').hover(function(){
 
 	*/
 
-
-
-
 particlesJS('particles-js',
 
   {
     "particles": {
       "number": {
-        "value": 175,
+        "value": 160,
         "density": {
           "enable": true,
           "value_area": 800
@@ -359,7 +352,7 @@ particlesJS('particles-js',
       },
       "move": {
         "enable": true,
-        "speed": 3,
+        "speed": 1.5,
         "direction": "none",
         "random": false,
         "straight": false,
