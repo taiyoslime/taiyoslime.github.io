@@ -14,9 +14,14 @@ var $speed = 400;
 
 */
 
+$(window).on('load resize', function(){
+  $('#particles-js').css('height',$(document).height());
+});
+
+
 $(document).ready(function() {
     $('body').velocity('fadeIn', { duration: 1500});
-    
+
 });
 
 
@@ -49,7 +54,7 @@ $('.b0').hover(function(){
             color:'#FFFFFF'
         },$speed,"easeinout"
     );
-    
+
     });
 
 });
@@ -84,7 +89,7 @@ $('.b1').hover(function(){
             color:'#FFFFFF'
         },$speed,"easeinout"
     );
-    
+
     });
 
 });
@@ -118,7 +123,7 @@ $('.b2').hover(function(){
             color:'#FFFFFF'
         },$speed,"easeinout"
     );
-    
+
     });
 
 });
@@ -152,7 +157,7 @@ $('.b3').hover(function(){
             color:'#FFFFFF'
         },$speed,"easeinout"
     );
-    
+
     });
 
 });
@@ -184,7 +189,7 @@ $('.b4').hover(function(){
             color:'#FFFFFF'
         },$speed,"easeinout"
     );
-    
+
     });
 
 });
@@ -217,7 +222,7 @@ $('.b5').hover(function(){
             color:'#FFFFFF'
         },$speed,"easeinout"
     );
-    
+
     });
 
 });
@@ -234,8 +239,8 @@ $('.b5').hover(function(){
 
 
 
-    
-    
+
+
 
 /*
 
