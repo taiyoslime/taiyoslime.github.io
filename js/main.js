@@ -212,22 +212,6 @@ $('.b5').hover(function(){
     });
 
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 
 
@@ -288,9 +272,6 @@ $('.b5').hover(function(){
 
 
 	*/
-
-
-
 particlesJS('particles-js',
 
   {
