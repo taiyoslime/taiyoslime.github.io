@@ -1,5 +1,6 @@
 
 
+
 var $speed = 400;
 
 /*
@@ -16,8 +17,6 @@ var $speed = 400;
 
 $(document).ready(function() {
     $('body').velocity('fadeIn', { duration: 1500});
-
-
 });
 
 
@@ -298,6 +297,8 @@ $('.b5').hover(function(){
 
 
 	*/
+
+
 
 particlesJS('particles-js',
 
