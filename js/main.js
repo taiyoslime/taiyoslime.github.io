@@ -1,8 +1,3 @@
-
-
-
-var $speed = 400;
-
 /*
 (function() {
      $.fn.enter = function(enter,leave) {
@@ -10,16 +5,12 @@ var $speed = 400;
           this.on('mouseleave', leave);
      };
 })();
-
-
-
 */
 
+var $speed = 400;
 $(document).ready(function() {
     $('body').velocity('fadeIn', { duration: 1500});
 });
-
-
 
 /*タグににデータ属性もたせて関数化しようと思ったけど、発火が遅れるっぽいからいちいちかく*/
 $(function() {
