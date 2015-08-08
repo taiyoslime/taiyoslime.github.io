@@ -15,9 +15,6 @@ html.remodal-is-locked {
 
   display: none;
 }
-
-/* Necessary styles of the wrapper */
-
 .remodal-wrapper {
   position: fixed;
   z-index: 10000;
@@ -25,40 +22,26 @@ html.remodal-is-locked {
   right: 0;
   bottom: 0;
   left: 0;
-
   display: none;
   overflow: auto;
-
   text-align: center;
-
   -webkit-overflow-scrolling: touch;
 }
-
 .remodal-wrapper:after {
   display: inline-block;
-
   height: 100%;
   margin-left: -0.05em;
-
   content: "";
 }
-
-/* Fix iPad, iPhone glitches */
-
 .remodal-overlay,
 .remodal-wrapper {
   backface-visibility: hidden;
 }
-
-/* Necessary styles of the modal dialog */
-
 .remodal {
   position: relative;
 
   text-size-adjust: 100%;
 }
-
 .remodal-is-initialized {
-  /* Disable Anti-FOUC */
   display: inline-block;
 }
