@@ -1,22 +1,10 @@
-/* ==========================================================================
-   Remodal's necessary styles
-   ========================================================================== */
-
-/* Hide scroll bar */
-
 html.remodal-is-locked {
   overflow: hidden;
 }
-
-/* Anti FOUC */
-
 .remodal,
 [data-remodal-id] {
   display: none;
 }
-
-/* Necessary styles of the overlay */
-
 .remodal-overlay {
   position: fixed;
   z-index: 9999;
