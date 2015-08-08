@@ -39,7 +39,6 @@ html.remodal-is-locked {
 }
 .remodal {
   position: relative;
-
   text-size-adjust: 100%;
 }
 .remodal-is-initialized {
