@@ -6,7 +6,6 @@
      };
 })();
 */
-
 var $speed = 400;
 $(document).ready(function() {
     $('body').velocity('fadeIn', { duration: 1500});
