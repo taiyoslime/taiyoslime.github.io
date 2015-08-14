@@ -13,12 +13,12 @@ hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padd
 input,select{vertical-align:middle}
 li{list-style:none}
 @font-face {
-	font-family: 'MFont';
+	font-family: 'm_2pthin';
 	src: url('./font/m2.eot'), /* IE9 Compat Modes */
 	     url('./font/m2.eot?#iefix') format('embedded-opentype'), /*IE6-IE8? */
 	     url('./font/m2.woff') format('woff'),
 	     url('./font/m2.ttf')  format('truetype'), /* iOS Safari, Androidとか*/
-	     url('./font/m2.svg#?????') format('svg'); /* Legacy iOS */
+	     url('./font/m2.svg#m_2pthin') format('svg'); /* Legacy iOS */
 }#particles-js{
 background-color: #000000;
 	width: 100%;
@@ -31,7 +31,7 @@ html,body{
 	width:100%;
 	height: auto;
     background-color: #000000;
-    font-family: 'Helvetica Neue UltraLight','MFont';
+    font-family: 'Helvetica Neue UltraLight','m_2pthin';
     color: #FFFFFF;
     position: absolute;
     z-index: 0;
