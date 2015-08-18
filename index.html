@@ -26,7 +26,28 @@
 <link rel=stylesheet type=text/css media=screen href=css/style.css>
 <meta name=google-site-verification content="No8D3HNFlmP2wzf5ywFBp3-QdmNcjOO5KAi2CE0cx0U">
 <body>
-<div class=content>
+<script>
+  $(function() {
+    var h = $(window).height();
+
+    $('#wrap').css('display','none');
+    $('#loader-bg ,#loader').height(h).css('display','block');
+  });
+
+  $(window).load(function () { //全ての読み込みが完了したら実行
+    $('#loader-bg').delay(900).fadeOut(800);
+    $('#loader').delay(600).fadeOut(300);
+    $('#wrap').css('display', 'block');
+  });
+
+  </script>
+
+
+
+
+
+
+<div class=content id='wrap'>
   <h1 class=title>Taiyo Mizuhashi</h1>
   <div class=aboutme>A high-school student who live in Japanese countryside
     <br>
