@@ -1,2 +1,3 @@
-## taiyoslime.github.io
-GitHub Pagesのリポジトリ
+Source of [taiyoslime.github.io](taiyoslime.github.io)
+
+Maybe renewal soon....
