@@ -48,6 +48,10 @@ li{list-style:none}
 
 }
 
+.notif-p{
+	font-size: 18px;
+}
+
 #particles-js{
 background-color: #000000;
 	width: 100%;
