@@ -1,47 +1,23 @@
-@font-face {
-	font-family: 'm_2pthin';
-	src: url('./font/m2.eot'), /* IE9 Compat Modes */
-	     url('./font/m2.eot?#iefix') format('embedded-opentype'), /*IE6-IE8? */
-	     url('./font/m2.woff') format('woff'),
-	     url('./font/m2.ttf')  format('truetype'), /* iOS Safari, Androidとか*/
-	     url('./font/m2.svg#m_2pthin') format('svg'); /* Legacy iOS */
+
+pre {
+	margin : 0;
+	font-size: 14px;
+	font-family: 'Oxygen Mono', monospace;
+	white-space: wrap ;
+	line-height: 1.8em
 }
 body{
 	margin:0;
-	color: #FFFFFF;
-	background-color:#000000;
+	background-color: #23241f
 }
-h3 {
-	margin: 10px 0;
-}
-a {
-	color: #FFFFFF;
-}
-.content{
-
-	margin: 15px;
+.hljs {
+	background-color: #23241f
 }
 
-.container{
-	margin:15px;
-}
-.about-container{
-
-}
-.likes-container{
-
+.hljs-attr, .hljs-attribute {
+    color: #a6c5f9;
 }
 
-.activity-container{
-
-}
-.activity-year{
-
-}
-.activity-contents{
-
-}
-
-.contact-container{
-
+.hljs-string, .hljs-doctag, .hljs-regexp {
+    color: #8fe0d5;
 }

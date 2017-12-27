@@ -1,62 +1,59 @@
 {
-	"name" : [ "水橋 大瑶", "Taiyo Mizuhashi", "taiyoslime" ],
-	"born_in" : "0x7CF",
-	"interests & likes" : {
-		"Computer science" : [ "Web" , "Infomatoin Security" ],
-		"Programming language" : [ "Ruby", "Haskell" ],
-		"Music" : [ "Piano", "DTM" ],
-		"Games" : [ "Groove Coaster", "東方Project" ]
+	"name": ["水橋 大瑶", "Taiyo Mizuhashi", "taiyoslime"],
+	"born_in": "0x7CF",
+	"interests & likes": {
+		"Computer science": ["Web", "Infomatoin Security / CTF", "Machine Learning", "Competitive Programming" ],
+		"Programming language": ["Ruby", "Haskell"],
+		"Music": ["Piano", "DTM"],
+		"Games": ["Groove Coaster", "東方Project"]
 	},
-	"links" : {
-		"blog" : "http://taiyoslime.hatenablog.com/",
-		"Twitter" : "https://twitter.com/taiyoslime",
-		"Facebook" : "https://www.facebook.com/taiyo.mizuhashi",
-		"GitHub" : "https://github.com/taiyoslime"
+	"links": {
+		"blog": "http://taiyoslime.hatenablog.com/",
+		"Twitter": "https://twitter.com/taiyoslime",
+		"Facebook": "https://www.facebook.com/taiyo.mizuhashi",
+		"GitHub": "https://github.com/taiyoslime"
 	},
-	"Activities" : {
-		"2017" :{
-			"物理チャレンジ2017 本戦 奨励賞" : {
-				"url" : "http://www.jpho.jp/",
-				"comment"
-			} ,
-			"科学の甲子園 全国大会 出場" : { 
-
+	"activities": {
+		"2017": {
+			"物理チャレンジ2017 本戦 奨励賞": {
+				"url" : "http://www.jpho.jp/"
 			},
-			"SECCON 2016 Final 出場" : {
-
+			"第6回科学の甲子園 全国大会 出場": {
+				"url" : "http://koushien.jst.go.jp/koushien/"
 			},
-		} ,
-		"2016" : {
-			"科学の甲子園 長野県大会 優勝" : {
-
-			},
-			"IPA/経済産業省 未踏人材育成事業 (~2017/3)" : {
-
-			},
-			"IPA セキュリティキャンプ(#seccamp) 全国大会" : {
-
-			},
-			"日本情報オリンピック2016 本選 Bランク" : {
-
-			},
+			"SECCON 2016 Final 出場": {
+				"url" : "http://2016.seccon.jp/about/final2017.html",
+				"notes" : "participated as \"team Elf\" "
+			}
 		},
-		"2015" : {
-			"日本情報オリンピック2016 予選 Aランク" : {
-
+		"2016": {
+			"科学の甲子園 長野県大会 総合優勝，筆記情報分野 優勝，実技物理分野 優勝": {
+				"notes" : "With five schoolfriends on behalf of our school. I was in charge of information science and physics. "
 			},
-			"GTEC for Students Grade 7" : {
+			"IPA/経済産業省 未踏人材育成事業 (~2017/3)": {
+				"url" : [
+					"https://www.ipa.go.jp/jinzai/mitou/portal_index.html",
+					"https://www.ipa.go.jp/files/000059110.pdf",
+					"https://www.ipa.go.jp/files/000059111.pdf"
+				]
 			},
+			"IPA セキュリティキャンプ(#seccamp) 全国大会": {
+				"url" : "http://www.security-camp.org/"
+			},
+			"日本情報オリンピック2016 本選 Bランク": {}
 		},
-		"2014" : {
-			"筑波大学 GFESTプログラム サイエンストップリーダーコース(~2015/7)" : {
-
-			},
-			"基本情報技術者試験(FE) 合格" : {
-
-			},
+		"2015": {
+			"日本情報オリンピック2016 予選 Aランク": {},
+			"GTEC for Students Grade 7": {}
 		},
-		"2013" : {
-			"日本数学検定2級 合格" : {
+		"2014": {
+			"筑波大学 GFESTプログラム サイエンストップリーダーコース(~2015/7)": {
+				"url" : "http://gfest.tsukuba.ac.jp/"
+			},
+			"基本情報技術者試験(FE) 合格": {}
+		},
+		"2013": {
+			"日本数学検定2級 合格": {
 
 			}
 		}
