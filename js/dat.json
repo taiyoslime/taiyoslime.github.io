@@ -1,34 +1,40 @@
 {
 	"name": ["水橋 大瑶", "Taiyo Mizuhashi", "taiyoslime"],
-	"born_in": "0x7CF",
+	"born_in": "1999",
 	"interests & likes": {
-		"Computer science": ["Web", "Infomatoin Security / CTF", "Machine Learning", "Competitive Programming" ],
-		"Programming language": ["Ruby", "Haskell"],
+		"Computer science": [ "Web","Cryptography" , "Infomatoin Security / CTF", "Competitive Programming(little)", "esolang"],
+		"Programming language": [ "Ruby", "C/C++", "Haskell", "Python", "..." ],
 		"Music": ["Piano", "DTM"],
-		"Games": ["Groove Coaster", "東方Project"]
+		"Games": ["Undertale", "Groove Coaster", "Chunithm", "東方Project"]
 	},
+
 	"links": {
 		"blog": "http://taiyoslime.hatenablog.com/",
 		"Twitter": "https://twitter.com/taiyoslime",
 		"Facebook": "https://www.facebook.com/taiyo.mizuhashi",
 		"GitHub": "https://github.com/taiyoslime"
 	},
+	
 	"activities": {
+        "2018": {
+			"東京大学 理科Ⅰ類 入学": {
+			}
+		},
 		"2017": {
 			"物理チャレンジ2017 本戦 奨励賞": {
 				"url" : "http://www.jpho.jp/"
 			},
-			"第6回科学の甲子園 全国大会 出場": {
+			"第6回 科学の甲子園 全国大会 出場": {
 				"url" : "http://koushien.jst.go.jp/koushien/"
 			},
 			"SECCON 2016 Final 出場": {
 				"url" : "http://2016.seccon.jp/about/final2017.html",
-				"notes" : "participated as \"team Elf\" "
+				"notes" : "participated as 'team Elf' "
 			}
 		},
 		"2016": {
-			"科学の甲子園 長野県大会 総合優勝，筆記情報分野 優勝，実技物理分野 優勝": {
-				"notes" : "With five schoolfriends on behalf of our school. I was in charge of information science and physics. "
+			"第6回 科学の甲子園 長野県大会 総合優勝，筆記情報分野 優勝，実技物理分野 優勝": {
+				"notes" :  [ "With seven schoolfriends on behalf of our school.","I was in charge of information science and physics."]
 			},
 			"IPA/経済産業省 未踏人材育成事業 (~2017/3)": {
 				"url" : [
