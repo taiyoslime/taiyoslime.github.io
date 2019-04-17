@@ -17,13 +17,13 @@
 	"activities": {
         "2018": {
 			"東京大学 理科Ⅰ類 入学（工学部推薦）": {
-                "notes" : "by recommendation(Faculty of Engineering)",
+                "notes" : "by recommendation(Faculty of Engineering)"
 			},
             "SECCON CTF 2018 International 優勝": {
                 "notes" : "participated as 'TSG' ",
                 "url" : [
                     "https://this.kiji.is/449495478237676641",
-                    "https://2018.seccon.jp/seccon/2018akihabara/#ctf",
+                    "https://2018.seccon.jp/seccon/2018akihabara/#ctf"
                 ]
             }
 		},
