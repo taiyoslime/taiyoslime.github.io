@@ -13,11 +13,19 @@
 		"Facebook": "https://www.facebook.com/taiyo.mizuhashi",
 		"GitHub": "https://github.com/taiyoslime"
 	},
-	
+
 	"activities": {
         "2018": {
-			"東京大学 理科Ⅰ類 入学": {
-			}
+			"東京大学 理科Ⅰ類 入学（工学部推薦）": {
+                "notes" : "by recommendation(Faculty of Engineering)",
+			},
+            "SECCON CTF 2018 International 優勝": {
+                "notes" : "participated as 'TSG' ",
+                "url" : [
+                    "https://this.kiji.is/449495478237676641",
+                    "https://2018.seccon.jp/seccon/2018akihabara/#ctf",
+                ]
+            }
 		},
 		"2017": {
 			"物理チャレンジ2017 本戦 奨励賞": {
@@ -26,7 +34,7 @@
 			"第6回 科学の甲子園 全国大会 出場": {
 				"url" : "http://koushien.jst.go.jp/koushien/"
 			},
-			"SECCON 2016 Final 出場": {
+			"SECCON CTF 2016 Final 出場": {
 				"url" : "http://2016.seccon.jp/about/final2017.html",
 				"notes" : "participated as 'team Elf' "
 			}
@@ -59,7 +67,6 @@
 		},
 		"2013": {
 			"日本数学検定2級 合格": {
-
 			}
 		}
 	}
