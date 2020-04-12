@@ -4,20 +4,22 @@ pre {
 	font-size: 14px;
 	font-family: 'Oxygen Mono', monospace;
 	white-space: wrap ;
-	line-height: 1.8em
+	line-height: 1.8em;
 }
 body{
 	margin:0;
-	background-color: #23241f
+	background-color: #23241f;
 }
 .hljs {
-	background-color: #23241f
+	background-color: #23241f;
 }
 
 .hljs-attr, .hljs-attribute {
-    color: #a6c5f9;
+    	/* color: #a6c5f9; */
+	color: #ffffff;
 }
 
 .hljs-string, .hljs-doctag, .hljs-regexp {
-    color: #8fe0d5;
+    	/* color: #8fe0d5; */
+	color: #ffffff;
 }
