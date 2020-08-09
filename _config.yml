@@ -1,0 +1,5 @@
+markdown: kramdown
+timezone: Asia/Tokyo
+
+auto: true
+server: true
