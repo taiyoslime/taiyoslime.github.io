@@ -1,5 +1,7 @@
 markdown: kramdown
 timezone: Asia/Tokyo
 
+remote_theme: essentialenemy/noir
+
 auto: true
 server: true

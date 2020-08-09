@@ -8,30 +8,26 @@ layout: default
 - PGP FingerPrint
 	- [8685988AC7DC78EBA3F3C2557574D81762BFB92A](https://keybase.io/taiyoslime)
 - Links
-	- https://twitter.com/taiyoslime
-	- http://taiyoslime.hatenablog.com/
-	- https://github.com/taiyoslime
-	- https://keybase.io/taiyoslime/
+	- [https://twitter.com/taiyoslime]
+	- [https://github.com/taiyoslime]
+	- [http://taiyoslime.hatenablog.com]
+	- [https://keybase.io/taiyoslime]
 
 
-# Education
-
-- College of Arts and Sciences(Junior Division (Years 1&2)), The University of Tokyo.  (April, 2018 to March, 2020)
+# Affiliations
 - Department of Information and Communication Engineering, Faculty of Engineering, The University of Tokyo. (April, 2020 to March, 2022)（expected）
+- [TSG](https://tsg.ne.jp/)
 
-<!--
+
 # Interests
-- TODO
-- Programming Languages
+- Computer Science
+- Programming Languages, Programming Language Processor
 	- Love: C, Ruby
-    - Can write: Python, C++, System Verilog, JavaScript, SQL
-	- Previously used: R, Crystal, Scheme, OCaml, Java, Rust, PHP, C#
--->
-
-
+    - Like: C++(~17), System Verilog, JavaScript, Go, Rust, Python, OCaml
+- Information security, especially Web and browser security
+- (Play, Listen, Make) Music
 
 # Activities
-
 ### 2020
 
 ### 2019
@@ -42,8 +38,8 @@ layout: default
 
 - Went on to College of Arts and Sciences(Junior Division (Years 1&2)), The University of Tokyo.
 - Finalist of [SECCON 2018 International](https://2018.seccon.jp/seccon/2018akihabara/#ctf) as `TSG` and awarded **1st** place.
-	- https://this.kiji.is/449495478237676641
-	- https://2018.seccon.jp/seccon/2018akihabara/#ctf
+	- [https://this.kiji.is/449495478237676641]
+	- [https://2018.seccon.jp/seccon/2018akihabara/#ctf]
 	- Awarded [the University of Tokyo President's Award](https://www.u-tokyo.ac.jp/ja/students/events/h12_01.html)
 -  Finalist of [CODE BLUE CTF 2018](http://ctf.codeblue.jp/) as `TSG` and awarded 6th place.
 
