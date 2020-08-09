@@ -1,7 +1,20 @@
-markdown: kramdown
-timezone: Asia/Tokyo
+theme: jekyll-theme-slate
 
-remote_theme: essentialenemy/noir
+title: "test"
+description: "test"
 
 auto: true
 server: true
+
+markdown: kramdown
+timezone: Asia/Tokyo
+
+exclude:
+  - .git
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+
+
+

@@ -8,15 +8,15 @@ layout: default
 - PGP FingerPrint
 	- [8685988AC7DC78EBA3F3C2557574D81762BFB92A](https://keybase.io/taiyoslime)
 - Links
-	- [https://twitter.com/taiyoslime]
-	- [https://github.com/taiyoslime]
-	- [http://taiyoslime.hatenablog.com]
-	- [https://keybase.io/taiyoslime]
+	- [https://twitter.com/taiyoslime](https://twitter.com/taiyoslime)
+	- [https://github.com/taiyoslime](https://github.com/taiyoslime)
+	- [http://taiyoslime.hatenablog.com](http://taiyoslime.hatenablog.com)
+	- [https://keybase.io/taiyoslime](https://keybase.io/taiyoslime)
 
 
 # Affiliations
 - Department of Information and Communication Engineering, Faculty of Engineering, The University of Tokyo. (April, 2020 to March, 2022)（expected）
-- [TSG](https://tsg.ne.jp/)
+- [TSG(Theoretical Science Group)](https://tsg.ne.jp/): a club at university.
 
 
 # Interests
@@ -24,7 +24,7 @@ layout: default
 - Programming Languages, Programming Language Processor
 	- Love: C, Ruby
     - Like: C++(~17), System Verilog, JavaScript, Go, Rust, Python, OCaml
-- Information security, especially Web and browser security
+- Information Security, especially Web and Browser Security
 - (Play, Listen, Make) Music
 
 # Activities
@@ -38,8 +38,8 @@ layout: default
 
 - Went on to College of Arts and Sciences(Junior Division (Years 1&2)), The University of Tokyo.
 - Finalist of [SECCON 2018 International](https://2018.seccon.jp/seccon/2018akihabara/#ctf) as `TSG` and awarded **1st** place.
-	- [https://this.kiji.is/449495478237676641]
-	- [https://2018.seccon.jp/seccon/2018akihabara/#ctf]
+	- [https://this.kiji.is/449495478237676641](https://this.kiji.is/449495478237676641)
+	- [https://2018.seccon.jp/seccon/2018akihabara/#ctf](https://2018.seccon.jp/seccon/2018akihabara/#ctf)
 	- Awarded [the University of Tokyo President's Award](https://www.u-tokyo.ac.jp/ja/students/events/h12_01.html)
 -  Finalist of [CODE BLUE CTF 2018](http://ctf.codeblue.jp/) as `TSG` and awarded 6th place.
 
@@ -53,8 +53,8 @@ layout: default
 - MITOH project 2016 (~2017-03)
 	- Project Detail
 	   - [https://www.ipa.go.jp/jinzai/mitou/2016/gaiyou_ig-1.html](https://www.ipa.go.jp/jinzai/mitou/2016/gaiyou_ig-1.html) (ja)
-	   - https://www.ipa.go.jp/files/000059110.pdf (ja)
-	   - https://www.ipa.go.jp/files/000059111.pdf (ja)
+	   - [https://www.ipa.go.jp/files/000059110.pdf](https://www.ipa.go.jp/files/000059110.pdf) (ja)
+	   - [https://www.ipa.go.jp/files/000059111.pdf](https://www.ipa.go.jp/files/000059111.pdf) (ja)
 	- Role: Project Leader, implemented majority of the systems and designes.
 
 - Participated [Security Camp 2016 in Tokyo](https://www.ipa.go.jp/jinzai/camp/2016/zenkoku2016.html) as a student.
