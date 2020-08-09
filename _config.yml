@@ -4,6 +4,8 @@ theme: jekyll-theme-slate
 auto: true
 server: true
 
+baseurl: "/"
+url: "https://taiyosli.me"
 timezone: Asia/Tokyo
 
 exclude:
