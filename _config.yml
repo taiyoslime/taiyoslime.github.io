@@ -1,12 +1,9 @@
+markdown: kramdown
 theme: jekyll-theme-slate
-
-title: "test"
-description: "test"
 
 auto: true
 server: true
 
-markdown: kramdown
 timezone: Asia/Tokyo
 
 exclude:
@@ -14,7 +11,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-
-
-
-
