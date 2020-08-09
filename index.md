@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "taiyosli.me"
 ---
 - Name
 	- Taiyo Mizuashi, 水橋 大瑶
