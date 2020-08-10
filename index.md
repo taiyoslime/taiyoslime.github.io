@@ -7,8 +7,10 @@ title: "taiyosli.me"
 ---
 - Name
 	- Taiyo Mizuashi, 水橋 大瑶
-- HandleName
-	- taiyoslime, すらいむ
+	- HandleName
+		- taiyoslime, すらいむ
+- Age
+	- 21
 - PGP FingerPrint
 	- [8685988AC7DC78EBA3F3C2557574D81762BFB92A](https://keybase.io/taiyoslime)
 - Links
@@ -19,31 +21,32 @@ title: "taiyosli.me"
 
 
 # Affiliations
-- Department of Information and Communication Engineering, Faculty of Engineering, The University of Tokyo. (April, 2020 to March, 2022)（expected）
+- Department of Information and Communication Engineering, Faculty of Engineering, The University of Tokyo. (April, 2020 - March, 2022)（expected）
 - [TSG(Theoretical Science Group)](https://tsg.ne.jp/): a club at university.
 
-
 # Interests
-- Computer Science
+- Computer Science / Information and Network Technology
 - Programming Languages, Programming Language Processor
 	- Love: C, Ruby
-    - Like: C++(~17), System Verilog, JavaScript, Go, Rust, Python, OCaml
+    - Like: C++, System Verilog, JavaScript, Go, Rust, Python, OCaml
+- Web Development
 - Information Security, especially Web and Browser Security
-- (Play, Listen, Make) Music
 
 # Activities
 ### 2020
 
+- Proceed to Department of Information and Communication Engineering, Faculty of Engineering, The University of Tokyo.
+
 ### 2019
 
-- Proceed to Department of Information and Communication Engineering, Faculty of Engineering, The University of Tokyo.
+- Organized [TSG CTF](https://ctf.tsg.ne.jp/) with `TSG` members (May 4 - 5, 2019)
+	- Received evalutation of [23.57/25.00](https://ctftime.org/event/758/) from the CTF participants.
 
 ### 2018
 
 - Went on to College of Arts and Sciences(Junior Division (Years 1&2)), The University of Tokyo.
 - Finalist of [SECCON 2018 International](https://2018.seccon.jp/seccon/2018akihabara/#ctf) as `TSG` and awarded **1st** place.
-	- [https://this.kiji.is/449495478237676641](https://this.kiji.is/449495478237676641)
-	- [https://2018.seccon.jp/seccon/2018akihabara/#ctf](https://2018.seccon.jp/seccon/2018akihabara/#ctf)
+	- [https://this.kiji.is/449495478237676641](https://web.archive.org/web/20190520212133/https://this.kiji.is/449495478237676641)(archive)
 	- Awarded [the University of Tokyo President's Award](https://www.u-tokyo.ac.jp/ja/students/events/h12_01.html)
 -  Finalist of [CODE BLUE CTF 2018](http://ctf.codeblue.jp/) as `TSG` and awarded 6th place.
 
