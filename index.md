@@ -36,6 +36,12 @@ title: "taiyosli.me"
 ### 2020
 
 - Proceed to Department of Information and Communication Engineering, Faculty of Engineering, The University of Tokyo.
+- Participated in [Hatena Summer Internship 2020](https://hatenacorp.jp/intern2020) (August 24 - 28, 2020)
+	- report: https://blog.taiyosli.me/entry/2020/09/13/234737 (ja)
+- Participated in [Online Summer Internship for Gophers 2020](https://mercan.mercari.com/articles/22800/) organized by Mercari, inc. (August 31 - September 4, 2020)
+	- TBW
+- Participated in Yahoo! JAPAN 2020 Summer Internship (September 7 - 15, 2020)
+	- TBW
 
 ### 2019
 
@@ -59,12 +65,12 @@ title: "taiyosli.me"
 
 - MITOH project 2016 (~2017-03)
 	- Project Detail
-	   - [https://www.ipa.go.jp/jinzai/mitou/2016/gaiyou_ig-1.html](https://www.ipa.go.jp/jinzai/mitou/2016/gaiyou_ig-1.html) (ja)
-	   - [https://www.ipa.go.jp/files/000059110.pdf](https://www.ipa.go.jp/files/000059110.pdf) (ja)
-	   - [https://www.ipa.go.jp/files/000059111.pdf](https://www.ipa.go.jp/files/000059111.pdf) (ja)
+		- [https://www.ipa.go.jp/jinzai/mitou/2016/gaiyou_ig-1.html](https://www.ipa.go.jp/jinzai/mitou/2016/gaiyou_ig-1.html) (ja)
+		- [https://www.ipa.go.jp/files/000059110.pdf](https://www.ipa.go.jp/files/000059110.pdf) (ja)
+		- [https://www.ipa.go.jp/files/000059111.pdf](https://www.ipa.go.jp/files/000059111.pdf) (ja)
 	- Role: Project Leader, implemented majority of the systems and designes.
 
-- Participated [Security Camp 2016 in Tokyo](https://www.ipa.go.jp/jinzai/camp/2016/zenkoku2016.html) as a student.
+- Participated in [Security Camp 2016 in Tokyo](https://www.ipa.go.jp/jinzai/camp/2016/zenkoku2016.html) as a student.
 - Finalist of [SECCON 2016](https://2017.seccon.jp/) as a team with my friends and awarded 23th place.
 
 ### 2015
@@ -73,7 +79,4 @@ title: "taiyosli.me"
 ### 2014
 - Participated in [GFEST](http://gfest.tsukuba.ac.jp/).(course: Science Top Reader)  (-2015)
 - Passed [Fundamental Information Technology Engineer Examination(FE)](https://www.jitec.ipa.go.jp/1_11seido/fe.html).
-
-
-
 
