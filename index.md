@@ -30,7 +30,7 @@ title: "taiyosli.me"
 	- Love: C, Ruby
     - Like: C++, System Verilog, JavaScript, Go, Rust, Python, OCaml
 - Web Development
-- Information Security, especially Web and Browser Security
+- Information Security, especially Web Security
 
 # Activities
 ### 2020
