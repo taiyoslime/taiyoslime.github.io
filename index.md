@@ -28,7 +28,7 @@ title: "taiyosli.me"
 - Computer Science / Information and Network Technology
 - Programming Languages, Programming Language Processor
 	- Love: C, Ruby
-    - Like: C++, System Verilog, JavaScript, Go, Rust, Python, OCaml
+	- Like: C++, Go, Rust, Python, OCaml, JavaScript
 - Web Development
 - Information Security, especially Web Security
 
