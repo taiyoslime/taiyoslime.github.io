@@ -16,7 +16,7 @@ title: "taiyosli.me"
 - Links
 	- [https://twitter.com/taiyoslime](https://twitter.com/taiyoslime)
 	- [https://github.com/taiyoslime](https://github.com/taiyoslime)
-	- [http://taiyoslime.hatenablog.com](http://taiyoslime.hatenablog.com)
+	- [https://blog.taiyosli.me](https://blog.taiyosli.me)
 	- [https://keybase.io/taiyoslime](https://keybase.io/taiyoslime)
 
 
