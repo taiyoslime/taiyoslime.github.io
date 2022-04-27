@@ -10,13 +10,13 @@ title: "taiyosli.me"
 	- HandleName
 		- taiyoslime, すらいむ
 - Age
-	- 21
+	- 22
 - PGP FingerPrint
 	- [8685988AC7DC78EBA3F3C2557574D81762BFB92A](https://keybase.io/taiyoslime)
 - Links
 	- [https://twitter.com/taiyoslime](https://twitter.com/taiyoslime)
 	- [https://github.com/taiyoslime](https://github.com/taiyoslime)
-	- [http://taiyoslime.hatenablog.com](http://taiyoslime.hatenablog.com)
+	- [https://blog.taiyosli.me](https://blog.taiyosli.me)
 	- [https://keybase.io/taiyoslime](https://keybase.io/taiyoslime)
 
 
@@ -28,9 +28,9 @@ title: "taiyosli.me"
 - Computer Science / Information and Network Technology
 - Programming Languages, Programming Language Processor
 	- Love: C, Ruby
-    - Like: C++, System Verilog, JavaScript, Go, Rust, Python, OCaml
+	- Like: C++, Go, Rust, Python, OCaml, JavaScript
 - Web Development
-- Information Security, especially Web and Browser Security
+- Information Security, especially Web Security
 
 # Activities
 ### 2020
