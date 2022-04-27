@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "IDs"
-permalink: /ids/
+permalink: /ids
 ---
 
 # IDs
 
-- Keybase: https://keybase.io/taiyoslime
+- Keybase: [https://keybase.io/taiyoslime](https://keybase.io/taiyoslime)
     - PGP Fingerprint `8685988AC7DC78EBA3F3C2557574D81762BFB92A`
-- Blog: https://blog.taiyosli.me
+- Blog: [https://blog.taiyosli.me](https://blog.taiyosli.me)
 
 --- 
 
