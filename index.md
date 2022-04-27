@@ -46,7 +46,6 @@ title: "taiyosli.me"
 ### 2019
 
 - Organized [TSG CTF](https://ctf.tsg.ne.jp/) with `TSG` members (May 4 - 5, 2019)
-	- Received evalutation of [23.57/25.00](https://ctftime.org/event/758/) from the CTF participants.
 
 ### 2018
 

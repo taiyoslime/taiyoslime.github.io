@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "IDs"
 permalink: /ids/
 ---
@@ -24,6 +24,7 @@ permalink: /ids/
 - Twitch: [taiyoslime](https://www.twitch.tv/taiyoslime) (ROM)
 - Mastodon: [@taiyoslime@pawoo.net](https://pawoo.net/@taiyoslime) (Inactive)
 - Foursquare: [taiyoslime](https://ja.foursquare.com/taiyoslime) (Inactive)
+
 <!-- 
 - YouTube: https://www.youtube.com/c/taiyoslime
 - Facebook: (Inactive)
@@ -39,6 +40,7 @@ permalink: /ids/
 - Hacker News: [taiyoslime](https://news.ycombinator.com/user?id=taiyoslime) (ROM)
 - Reddit: [u/taiyoslime](https://www.reddit.com/user/taiyoslime/) (ROM)
 - CTFTime: [taiyoslime](https://ctftime.org/user/17091) (Inactive)
+
 <!--
 - Qiita: https://qiita.com/taiyoslime (Inactive)
 - AtCoder: https://atcoder.jp/users/taiyoslime (Inactive)
